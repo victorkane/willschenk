@@ -21,3 +21,5 @@ relativeURLs = true
     name = "Posts"
     url = "/posts/"
     weight = 120
+pygmentsCodeFences = true
+pygmentsUseClasses = true
