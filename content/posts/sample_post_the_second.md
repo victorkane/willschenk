@@ -5,3 +5,4 @@ draft: true
 tags: [ "two" ]
 ---
 
+This is the second amazing post that will *blow your mind*!
