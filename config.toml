@@ -3,3 +3,13 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "willschenk"
 relativeURLs = true
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
