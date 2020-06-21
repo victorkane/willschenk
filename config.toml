@@ -21,5 +21,12 @@ relativeURLs = true
     name = "Posts"
     url = "/posts/"
     weight = 120
+
+  [[menu.main]]
+    identifier = "photos"
+    name = "Photos"
+    url = "/photos/"
+    weight = 130
+
 pygmentsCodeFences = true
 pygmentsUseClasses = true
