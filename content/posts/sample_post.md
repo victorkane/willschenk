@@ -1,11 +1,13 @@
 ---
-title: "Sample_post"
-date: 2020-06-20T07:36:57-03:00
+title: Sample_post
+date: 2020-06-20T07:36:57.000-03:00
+tags:
+- one
+- two
 draft: true
-tags: [ "one", "two" ]
----
 
-One of the things I'm very interested in is writing words and seeing them on the page.
+---
+One of the features I'm very interested in is writing words and seeing them on the page.
 
 ```javascript
 const m = 8
@@ -16,4 +18,3 @@ const essay = {
 }
 essay.map(sentence) => console.log("sentence", sentence)
 ```
-
