@@ -1,32 +1,27 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "willschenk"
 relativeURLs = true
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 100
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 110
-
-  [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
-    weight = 120
-
-  [[menu.main]]
-    identifier = "photos"
-    name = "Photos"
-    url = "/photos/"
-    weight = 130
-
+theme = "willschenk"
+title = "My New Hugo Site"
+[[menu.main]]
+identifier = "photos"
+name = "Photos"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+url = "/photos/"
+weight = 4
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 3
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 2
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
