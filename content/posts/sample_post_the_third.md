@@ -12,4 +12,6 @@ menu:
 draft: true
 
 ---
-At last we're adding some content. OK.
+At last we're adding some content
+
+> _Cosa de mandiga_
