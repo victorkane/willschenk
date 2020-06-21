@@ -16,4 +16,4 @@ At last we're adding some content
 
 > _Cosa de mandiga_
 
-\--Nora Perusin
+<small>--Nora Perusin</small>
