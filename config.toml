@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 relativeURLs = true
 theme = "willschenk"
-title = "My New Hugo Site"
+title = "Los Soles Oblicuos"
 [[menu.main]]
 identifier = "photos"
 name = "Photos"
