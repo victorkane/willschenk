@@ -3,14 +3,14 @@ title: Sample_post
 date: 2020-06-20T07:36:57.000-03:00
 tags:
 - one
-- two
+- código
 draft: true
 
 ---
 One of the features I'm very interested in is writing words and seeing them on the page.
 
 ```javascript
-const m = 8
+const m = 10
 const essay = { 
   "one": "Sentence 1",
   "two": "Sentence 2",
